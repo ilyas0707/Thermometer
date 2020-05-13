@@ -9,20 +9,22 @@ Created by:
 - Azizkhan Sydykov
 - Ilias Iangurazov
 
-Project image:
+# Preview:
 
 ![Image of project](https://github.com/ilyas0707/Thermometer/blob/master/images/thermometer.jpg)
 
-Image of thermometer's base:
+# Thermometer's base:
 
 ![Image of base](https://github.com/ilyas0707/Thermometer/blob/master/images/base.png)
 
-Image of thermometer's circuit board:
+# Thermometer's circuit board:
 
 ![Circuit board image](https://github.com/ilyas0707/Thermometer/blob/master/images/thermometer.png)
 
-Circuit board ON:
+# Thermometer's circuit board ON:
 
 ![Circuit board ON image](https://github.com/ilyas0707/Thermometer/blob/master/images/thermometerON.png)
+
+# Computer Science department
 
 ![CS logo](https://github.com/ilyas0707/Thermometer/blob/master/images/cs.png)
