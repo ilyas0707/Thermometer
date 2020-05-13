@@ -11,7 +11,7 @@ Created by:
 
 Project image:
 
-![Image of project](https://github.com/ilyas0707/Thermometer/blob/master/images/thermometer.JPG)
+![Image of project](https://github.com/ilyas0707/Thermometer/blob/master/images/thermometer.jpg)
 
 Image of thermometer's base:
 
