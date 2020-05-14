@@ -25,6 +25,12 @@ Created by:
 
 ![Circuit board ON image](https://github.com/ilyas0707/Thermometer/blob/master/images/thermometerON.png)
 
+# Parts
+
+- OLED Monochrome display
+- Thermo sensor
+- Mini-USB connector
+
 # Computer Science department
 
 ![CS logo](https://github.com/ilyas0707/Thermometer/blob/master/images/cs.png)
